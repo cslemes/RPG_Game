@@ -1,6 +1,7 @@
 # RPG_Game
 
-Developed with Unreal Engine 5
+
+![Game Screenshot](./screenshot.png)
 
 
 ## Project Overview
